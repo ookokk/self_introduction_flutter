@@ -7,4 +7,4 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 EN
-Just tap a piano button to make you own beat. 
+Just tap a piano button to make your own beat. 
